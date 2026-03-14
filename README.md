@@ -36,3 +36,5 @@ Experiments include both synthetic datasets and real datasets to explore the beh
 Movie recommendation experiments are implemented using Netflix-style datasets.
 
 This repository represents a collection of practical exercises and final projects completed during the course.
+
+Various public datasets are used in the notebooks.
