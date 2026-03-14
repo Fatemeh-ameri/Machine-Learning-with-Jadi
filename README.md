@@ -1,8 +1,8 @@
 # Machine Learning with Jadi
 
-This repository contains implementations of various **machine learning algorithms** developed while taking a practical machine learning course on the MaktabKhooneh platform.
+This repository contains implementations of various **machine learning algorithms** developed while taking a practical machine learning course on the **MaktabKhooneh** platform.
 
-The goal of this repository is to practice core machine learning concepts through hands-on projects using Python.
+The purpose of this repository is to practice core machine learning concepts through hands-on experiments using Python and common machine learning libraries.
 
 ---
 
@@ -26,20 +26,13 @@ The goal of this repository is to practice core machine learning concepts throug
 * Hierarchical Clustering (Agglomerative)
 * DBSCAN (density-based clustering)
 
-Experiments are performed on both synthetic datasets and real datasets to illustrate how different clustering methods behave.
+Experiments include both synthetic datasets and real datasets to explore the behavior of different clustering algorithms.
 
 ### Recommendation Systems
 
 * Content-Based Recommendation
 * Collaborative Filtering
 
----
+Movie recommendation experiments are implemented using Netflix-style datasets.
 
-## Tools and Libraries
-
-Most experiments are implemented in **Python** using common machine learning libraries such as:
-
-* NumPy
-* Pandas
-* Scikit-learn
-* Matplotlib
+This repository represents a collection of practical exercises and final projects completed during the course.
